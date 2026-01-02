@@ -63,7 +63,7 @@
 
 <h3 style="letter-spacing:.8px; font-weight:600; text-shadow:0 0 6px rgba(212,175,55,.25);">🧰 Tech Stack</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,node,express,mongodb,python,c,aws,figma,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,express,mongodb,python,c,aws,figma,mysql" />
 
 <hr style="
   border:0;
