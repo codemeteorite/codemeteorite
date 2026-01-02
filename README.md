@@ -3,19 +3,7 @@
   padding: 10px;
 ">
 
-<div align="center">
-
-<img 
-  src="https://raw.githubusercontent.com/codemeteorite/mohdyahiya/main/image.png"
-  width="140"
-  style="
-    border-radius:28px;
-    border:2px solid rgba(212,175,55,.6);
-    box-shadow:
-      0 0 18px rgba(212,175,55,.7),
-      0 0 36px rgba(212,175,55,.3);
-  "
-/>
+<div style="max-width:900px; margin:auto;">
 
 <h2 style="letter-spacing:1px; font-weight:600;">
   Hi, I'm <span style="color:#d4af37; text-shadow:0 0 8px rgba(212,175,55,.4);">Mohd Yahiya</span>
@@ -25,17 +13,15 @@
   Full Stack Developer • Frontend • AI
 </h4>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=520&lines=MERN+Developer;AI+Enthusiast;Gen-AI+Explorer;Passionate+Problem+Solver;Building+Real+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=D4AF37&center=false&vCenter=true&width=520&lines=MERN+Developer;AI+Enthusiast;Gen-AI+Explorer;Passionate+Problem+Solver;Building+Real+Products" />
 
-<p><i>Blowing life into the Internet</i></p>
+<p style="margin-top:4px; opacity:.85;"><i>Blowing life into the Internet</i></p>
 
 <p>
 <a href="https://yahiya.xyz">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-d4af37?style=for-the-badge" />
 </a>
 </p>
-
-</div>
 
 <hr style="
   border:0;
@@ -51,7 +37,7 @@
   <li>MERN is my Magic 🪄</li>
   <li>I build projects the way I cook food</li>
   <li>Exploring AI & Generative AI</li>
-  <li>Strong communicator & team player with leadership experience</li>
+  <li>🗣️ Strong communicator & team player with leadership experience</li>
 </ul>
 
 <hr style="
@@ -161,13 +147,4 @@ Train speed & accuracy with interactive UI<br/>
 <h3 style="letter-spacing:.8px; font-weight:600; text-shadow:0 0 6px rgba(212,175,55,.25);">🤝 Connect With Me</h3>
 
 <p>
-<a href="https://linkedin.com/in/yahiyamohd">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://yahiya.xyz">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge" />
-</a>
-</p>
-
-</div>
+<a href="https://linkedin.com/in/yahiy
